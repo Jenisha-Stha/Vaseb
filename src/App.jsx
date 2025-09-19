@@ -8,7 +8,7 @@ function App() {
       <div>this is our ecommerce web</div>
       <p>woah woah</p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
